@@ -1,4 +1,4 @@
 # weatherApp
 
 
-[DEMO](./weather.gif)
+[DEMO](./Gif/weather.gif)
